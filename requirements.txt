@@ -1,0 +1,4 @@
+pyTelegramBotApi==4.2.2 
+python-telegram-bot-calendar==1.0.5
+requests==2.26.0
+psycopg2==2.9.3
